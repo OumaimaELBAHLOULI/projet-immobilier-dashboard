@@ -18,6 +18,7 @@ Analyse du marché immobilier français à partir des données DVF 2023.
 - **Visualisation** : Power BI
 
 ## 📁 Aperçu
+Le fichier `.pbix` est téléchargeable 
 
 ![Page 1](images/page1_vue_globale.png)
 ![Page 2](images/page2_analyse_detaillee.png)
